@@ -3,7 +3,7 @@
 /*
  * Cryptastic performs two-way encryption and pbkdf2 hashing.
  *
- * @author Andrew Johnson <inventuminteractive@gmail.com>
+ * @author Andrew Johnson <andrew@hireandrew.info>
  * @copyright Andrew Johnson
  *
  * Copyright (c) 2009 Andrew Johnson
